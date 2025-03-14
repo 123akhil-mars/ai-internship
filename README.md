@@ -1,1 +1,2 @@
+AIR QUALITY INDEX PREDICTION AI MODEL
 # ai-internship
