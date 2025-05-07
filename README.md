@@ -1,6 +1,7 @@
 # AIR QUALITY INDEX PREDICTION AI MODEL
 AI-Internship
 
+5g Core RAN ntw
 
 % Clear workspace
 clc; clear; close all;
